@@ -1,0 +1,9 @@
+{
+  "name": "supervisor",
+  "version": "0.1.0",
+  "title": "Supervisor",
+  "author": "AeroCross",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "Cameras all across your factory."
+}
